@@ -1,12 +1,6 @@
 # Music-Store-Performance-Analysis-Project
 
-
-
-
-
-
-
-
+![Overview Dashboard](./images/dashboard)
 
 Overview
 
