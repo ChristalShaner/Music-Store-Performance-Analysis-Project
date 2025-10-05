@@ -27,18 +27,6 @@ Key Insights
 Win: Instrument sales have grown steadily, driving revenue gains.
 Opportunity: Customers often skip accessories (equipment), especially certain segments, leaving upsell potential.
 
-How to Use
-Download the CSV dataset (fact + dimensions).
-Import into Power BI (or Tableau).
-Define relationships (Fact → Dimensions by keys).
-Load provided measures/DAX for KPIs.
-Explore the report pages.
-Features
-Star schema data model
-3-year sales history (2,000 transactions)
-Pre-built DAX measures for KPIs
-BI visuals for overview, products, and customers
-Business storytelling: Win + Opportunity
 Repository Structure
 data
 DateDim.csv
