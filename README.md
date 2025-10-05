@@ -1,5 +1,14 @@
 # Music-Store-Performance-Analysis-Project
-📖 Overview
+
+
+
+
+
+
+
+
+
+Overview
 
 This project simulates a fictional Music Store dataset and builds an interactive Power BI report to analyze sales performance. The dataset follows a star schema design and enables drilldown into sales trends, product performance, and customer insights.
 
