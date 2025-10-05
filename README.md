@@ -37,13 +37,15 @@ Pre-built DAX measures for KPIs
 BI visuals for overview, products, and customers
 Business storytelling: Win + Opportunity
 Repository Structure
-/data
-   ├── DateDim.csv
-   ├── ProductDim.csv
-   ├── CustomerDim.csv
-   └── SalesFact.csv
-/report
-   └── MusicStore.pbix
+data
+DateDim.csv
+ProductDim.csv
+CustomerDim.csv
+SalesFact.csv
+
+report
+MusicStore.pbix
+
 README.md
 
 Author - Christal Shaner
